@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Scammerpatil/Personal-Portfolio.git/static/css/main.92f4525d.css",
+    "main.js": "/Scammerpatil/Personal-Portfolio.git/static/js/main.abd3e99e.js",
+    "static/js/787.ced97632.chunk.js": "/Scammerpatil/Personal-Portfolio.git/static/js/787.ced97632.chunk.js",
+    "static/media/Saurav_Patil.jpg": "/Scammerpatil/Personal-Portfolio.git/static/media/Saurav_Patil.2d6047fc30950d12d5bd.jpg",
+    "static/media/myImg.jpg": "/Scammerpatil/Personal-Portfolio.git/static/media/myImg.ee725077b59be986394f.jpg",
+    "static/media/logo-no-background.png": "/Scammerpatil/Personal-Portfolio.git/static/media/logo-no-background.8745cdc5c00a6d97fe75.png",
+    "index.html": "/Scammerpatil/Personal-Portfolio.git/index.html",
+    "main.92f4525d.css.map": "/Scammerpatil/Personal-Portfolio.git/static/css/main.92f4525d.css.map",
+    "main.abd3e99e.js.map": "/Scammerpatil/Personal-Portfolio.git/static/js/main.abd3e99e.js.map",
+    "787.ced97632.chunk.js.map": "/Scammerpatil/Personal-Portfolio.git/static/js/787.ced97632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f4525d.css",
+    "static/js/main.abd3e99e.js"
+  ]
+}
