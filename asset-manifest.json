@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.f30e5608.css",
-    "main.js": "/personal-portfolio/static/js/main.bcbd790f.js",
+    "main.js": "/personal-portfolio/static/js/main.b3ce7d97.js",
     "static/js/787.ced97632.chunk.js": "/personal-portfolio/static/js/787.ced97632.chunk.js",
     "static/media/Saurav_Patil.jpg": "/personal-portfolio/static/media/Saurav_Patil.2d6047fc30950d12d5bd.jpg",
     "static/media/MyImg.jpg": "/personal-portfolio/static/media/MyImg.f0c87aaf46e7e9a838a6.jpg",
     "static/media/logo-no-background.png": "/personal-portfolio/static/media/logo-no-background.8745cdc5c00a6d97fe75.png",
     "index.html": "/personal-portfolio/index.html",
     "main.f30e5608.css.map": "/personal-portfolio/static/css/main.f30e5608.css.map",
-    "main.bcbd790f.js.map": "/personal-portfolio/static/js/main.bcbd790f.js.map",
+    "main.b3ce7d97.js.map": "/personal-portfolio/static/js/main.b3ce7d97.js.map",
     "787.ced97632.chunk.js.map": "/personal-portfolio/static/js/787.ced97632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f30e5608.css",
-    "static/js/main.bcbd790f.js"
+    "static/js/main.b3ce7d97.js"
   ]
 }
